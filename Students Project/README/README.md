@@ -151,7 +151,7 @@ The **Academic Performance Dashboard** gives a complete view of how students are
 
 <img src="screenshots/academic_dashboard.png" alt="Academic Performance Dashboard" width="100%"/>
 
-*📸 Academic Performance Dashboard*
+
 
 </div>
 
@@ -200,7 +200,7 @@ The **Behavior & Attendance Dashboard** focuses on how regularly students attend
 
 <img src="screenshots/behavior_dashboard.png" alt="Academic Performance Dashboard" width="100%"/>
 
-*📸 Academic Performance Dashboard*
+
 
 </div>
 
